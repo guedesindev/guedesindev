@@ -16,6 +16,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedesindev&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <div style="diplay:inline_block"><br> 
+  <p><stong>Linguages e tecnologias que tenho afinidade</stong></p>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />    
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
