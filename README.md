@@ -39,4 +39,4 @@
 </div>
 
 <!-- Cobrinha que come os commits -->
-![Snake animation](https://github.com/guedesindev/guedesindev/blob/output/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/guedesindev/guedesindev/blob/output/github-contribution-grid-snake.svg)
