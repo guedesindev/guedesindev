@@ -9,3 +9,8 @@
 📚 Compartilhando conhecimento e colaborando com a comunidade.
 
 🔍 Explorando o vasto mundo do desenvolvimento web, criando projetos incríveis e transformando ideias em código. Seja bem-vindo ao meu mundo de desenvolvimento!
+
+<div>
+  <a href="https://github.com/guedesindev">
+    <img height="100em" src="https://github-readme-stats-vercel.app/api?username=guedesindev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
