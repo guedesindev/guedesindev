@@ -1,10 +1,10 @@
-- 👋 Olá, aqui é o @guedesindev
-- 👀 Eu gosto muito de aprender, gosto de programar, desenvolver. Gasto muitas horas com isso!
-- 🌱 Atualmente estou aprendendo NODE front e back-end. Sou iniciante, mas estou desenvolvendo bem as habilidades de desenvolvimento javaScript com IA
-- 💞️ Queria muito contribuir com a sociedade com algum projeto relevante. Enquanto essa hora não chega vou contribuindo com pequenas irrelevâncias.
-- 📫 Como me encontrar: npm repository: guedesindev; gravatar: GuedesInDev; gmail: guedesindev@gmail.com; instagram: @devguedes
+Olá! Eu sou o Nando Guedes, um entusiasta apaixonado por desenvolvimento web. 👨‍💻
 
-<!---
-guedesindev/guedesindev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Desenvolvedor com foco em JavaScript, Node.js, HTML e CSS.
+💡 Entusiasta dos incríveis trabalhos elaborados em CSS.
+🌱 Constantemente aprendendo e buscando aprimorar minhas habilidades.
+📚 Compartilhando conhecimento e colaborando com a comunidade.
+
+🔍 Explorando o vasto mundo do desenvolvimento web, criando projetos incríveis e transformando ideias em código. Seja bem-vindo ao meu mundo de desenvolvimento!
+
+📫 Entre em contato: guedesindev@gmail.com
