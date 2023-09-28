@@ -12,7 +12,7 @@
 
 <div>
   <a href="https://github.com/guedesindev">
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guedesindev&repo=github-readme-stats)](https://github.com/guedesindev/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guedesindev&repo=guedesindev)](https://github.com/guedesindev/github-readme-stats)
     
   [![GuedesInDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=guedesindev&show_icons=true&theme=radical)]
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedesindev&layout=compact&langs_count=16&theme=dracula"/>
