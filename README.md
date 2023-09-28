@@ -12,7 +12,7 @@
 
 <div>
   <a href="https://github.com/guedesindev"/>    
-  [![GuedesInDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=guedesindev&show_icons=true&theme=github_dark)]
+    ![Guedes's GitHub stats](https://github-readme-stats.vercel.app/api?username=guedesindev&theme=dracula&show_icons=true)
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedesindev&layout=compact&langs_count=16&theme=github_dark"/>
 </div>
 <div style="diplay:inline_block"><br> 
