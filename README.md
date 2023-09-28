@@ -13,8 +13,8 @@
 <div>
   <a href="https://github.com/guedesindev"/>
     <div display:flex>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guedesindev&layout=compact&langs_count=16&theme=github_dark&show_icons=true"/>  
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedesindev&layout=compact&langs_count=16&theme=github_dark"/>    
+      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guedesindev&layout=compact&langs_count=16&theme=github_dark&show_icons=true"/>  
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedesindev&layout=compact&langs_count=16&theme=github_dark"/>    
     </div>
   
 </div>
