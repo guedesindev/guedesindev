@@ -12,7 +12,8 @@
 
 <div>
   <a href="https://github.com/guedesindev"/>
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guedesindev)](https://github.com/guedesindev/github-readme-stats)
+  [![devGuedes's GitHub stats](https://github-readme-stats.vercel.app/api?username=guedesindev&theme=github_dark)](https://github.com/guedesindev/guedesindev)
+    
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedesindev&layout=compact&langs_count=16&theme=github_dark"/>
 </div>
 <div style="diplay:inline_block"><br> 
