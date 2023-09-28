@@ -12,8 +12,11 @@
 
 <div>
   <a href="https://github.com/guedesindev"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guedesindev&layout=compact&langs_count=16&theme=github_dark&show_icons=true"/>  
-  <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedesindev&layout=compact&langs_count=16&theme=github_dark"/>
+    <div display:flex>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guedesindev&layout=compact&langs_count=16&theme=github_dark&show_icons=true"/>  
+      <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedesindev&layout=compact&langs_count=16&theme=github_dark"/>    
+    </div>
+  
 </div>
 <div style="diplay:inline_block"><br> 
   <p><stong>Linguages e tecnologias que tenho afinidade</stong></p>
