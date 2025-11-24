@@ -97,5 +97,6 @@ Se você também está nessa caminhada — vamos nos conectar!
 </div>
 ---
 💭 "Acredito em aprendizado contínuo, em recomeçar quantas vezes for preciso e em transformar cada nova habilidade em uma oportunidade."
+
 ⭐ *Se gostou do meu perfil ou dos meus projetos, considere deixar uma estrela nos repositórios!*  
 
