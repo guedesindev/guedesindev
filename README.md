@@ -71,7 +71,7 @@ Ferramenta em **Python** para automatizar a desinstalação de programas.
 Estudo exploratório de dados de vendas de jogos eletrônicos.  
 > Aplicação de **Ciência de Dados** com Pandas, visualização e insights de mercado.
 
-- 🔗 ****[Tic Tac Toe Multiplayer com Firebase]()**  
+- 🔗 ****[Tic Tac Toe Multiplayer com Firebase](https://github.com/guedesindev/tic-tac-toe)**  
   Jogo da velha em tempo real com JavaScript Vanilla e integração com Firebase
 
 ---
