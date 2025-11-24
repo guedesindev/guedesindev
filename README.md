@@ -51,11 +51,13 @@ Minha missão agora é evoluir como **Desenvolvedor (Front-end, Back-end ou Game
 <div align="center">
 <a href="https://github.com/guedesindev"/>
 <div display:flex justify-content:center align-items: center>
-  <img height="150em" width="500em" src="https://github-readme-stats.vercel.app/api?username=guedesindev&layout=merko&langs_count=16&theme=github_dark&show_icons=true"/>  <br>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedesindev&layout=merko&langs_count=16&theme=github_dark"/>    
+  <img height="150em" width="500em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"/>
+  <img height="150em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedesindev&show_icons=true&locale=pt-br"/>    
 </div>
 
 </div>
+
+
 
 ---
 
