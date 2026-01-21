@@ -48,7 +48,7 @@ Minha missão agora é evoluir como **Desenvolvedor (Front-end, Back-end ou Game
 
 ## 📈 Estatísticas do GitHub
 
-  <div align:center; display:flex justify-content:center align-items: center>
+  <div align:center; display:flex justify-content:space-around align-items: center>
     <a href="https://github.com/guedesindev">
       <img height="150em" width="500em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"/>
     </a>
@@ -65,9 +65,13 @@ Minha missão agora é evoluir como **Desenvolvedor (Front-end, Back-end ou Game
 
 > *(Você pode editar esta seção quando quiser)*
 
-- 🔗 **[Smart Uninstaller](https://github.com/guedesindev/Desistalador-inteligente-Python)**
+- 🔗 **[Smart Uninstaller](https://github.com/guedesindev/Desistalador-inteligente-Python)** ⭐
 Ferramenta em **Python** para automatizar a desinstalação de programas.  
 > Projeto que demonstra **automação de processos** e aplicação prática de lógica de programação.
+
+- 🔗 **[AI Tutor Forge][(https://github.com/guedesindev/ai_tutor_forge)** ⭐
+Agente de IA em **Python** que age como um professor especialista na área de programação escolhida pelo usuário.  
+> Projeto que demonstra **criação de um agente de IA** e interação com usuário tornando sua experiência pessoal e muito enriquecedora. 
 
 - 🔗 **[Análise de Vendas de Video Games](https://github.com/guedesindev/Analise-de-Vendas-de-Video-Games)**
 Estudo exploratório de dados de vendas de jogos eletrônicos.  
