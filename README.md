@@ -61,7 +61,7 @@ Minha missão agora é evoluir como **Desenvolvedor (Front-end, Back-end ou Game
 Ferramenta em **Python** para automatizar a desinstalação de programas.  
 > Projeto que demonstra **automação de processos** e aplicação prática de lógica de programação.
 
-- 🔗 **[AI Tutor Forge][(https://github.com/guedesindev/ai_tutor_forge)** ⭐
+- 🔗 **[AI Tutor Forge](https://github.com/guedesindev/ai_tutor_forge)** ⭐
 Agente de IA em **Python** que age como um professor especialista na área de programação escolhida pelo usuário.  
 > Projeto que demonstra **criação de um agente de IA** e interação com usuário tornando sua experiência pessoal e muito enriquecedora. 
 
