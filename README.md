@@ -69,7 +69,7 @@ Agente de IA em **Python** que age como um professor especialista na área de pr
 Estudo exploratório de dados de vendas de jogos eletrônicos.  
 > Aplicação de **Ciência de Dados** com Pandas, visualização e insights de mercado.
 
-- 🔗 ****[Tic Tac Toe Multiplayer com Firebase](https://github.com/guedesindev/tic-tac-toe)**  
+- 🔗 **[Tic Tac Toe Multiplayer com Firebase](https://github.com/guedesindev/tic-tac-toe)**  
   Jogo da velha em tempo real com JavaScript Vanilla e integração com Firebase
 
 ---
