@@ -47,16 +47,8 @@ Minha missão agora é evoluir como **Desenvolvedor (Front-end, Back-end ou Game
 ---
 
 ## 📈 Estatísticas do GitHub
-
-  <div align:center; display:flex justify-content:space-around align-items: center>
-    <a href="https://github.com/guedesindev">
-      <img height="150em" width="500em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"/>
-    </a>
-    <a href="https://github.com/guedesindev">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guedesindev&layout=compact&langs_count=8&card_width=320" />
-    </a>
-  </div>
-
+[![Guedes's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=guedesindev&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Guedes's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=guedesindev&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
 ---
