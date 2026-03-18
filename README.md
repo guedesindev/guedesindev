@@ -11,7 +11,8 @@ Minha missão agora é evoluir como **Desenvolvedor (Front-end, Back-end ou Game
 ## 🚀 Sobre mim
 
 - 📌 Desenvolvedor em formação em **Python**, **JavaScript Vanilla**, **Node.js**, **HTML** e **CSS**  
-- 📊 Pós-graduando em **Ciência de Dados & Big Data**  
+- 📊 Especialista em **Ciência de Dados & Big Data**
+- 🦾 Pós-Graduando em **Cibersegurança**
 - 🎓 Graduado em **Análise de Sistemas**  
 - 🧠 Apaixonado por lógica, matemática, física e resolução de problemas  
 - 📚 Estudante dedicado (DIO, bootcamps e cursos intensivos)  
