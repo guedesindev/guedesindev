@@ -29,7 +29,7 @@ Minha missão agora é evoluir como **Desenvolvedor (Front-end, Back-end ou Game
 `FastAPI` • `Django` • `Machine Learning` • `Visualização de Dados`
 
 **Ferramentas:**  
-`Git` • `GitHub` • `VS Code` • Metodologias Ágeis (Scrum)  
+`Git` • `GitHub` • `VS Code` • `Metodologias Ágeis (Scrum)`
 
 <div style="diplay:inline-block"><br> 
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java"/>    
